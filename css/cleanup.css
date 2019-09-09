@@ -38,6 +38,6 @@
   display: none;
 }
 
-#wall > .parent{
+#wall > .parent > #tag-5, #tag-6, #tag-7{
   display: none;
 }
