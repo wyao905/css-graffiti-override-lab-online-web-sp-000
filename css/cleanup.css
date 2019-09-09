@@ -34,10 +34,10 @@
   display: none;
 }
 
-#wall #tag-3 {
+#wall ."slick wicked" {
   display: none;
 }
 
-#wall ."slick wicked" {
+#wall > .parent {
   display: none;
 }
