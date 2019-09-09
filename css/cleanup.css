@@ -34,14 +34,10 @@
   display: none;
 }
 
-#wall #tag-3 {
+/*#wall #tag-3 {*/
   display: none;
 }
 
 #wall > .parent {
-  display: none;
-}
-
-#wall .parent .slick {
   display: none;
 }
