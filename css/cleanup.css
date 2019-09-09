@@ -34,7 +34,7 @@
   display: none;
 }
 
-#wall ."slick wicked" {
+#wall > #tag-3 {
   display: none;
 }
 
